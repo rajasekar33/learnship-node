@@ -1,0 +1,21 @@
+{
+    "user": {
+        "userName": "Raja",
+        "password": "test"
+    },
+
+    "blog": {
+        "title": "test 1",
+        "description": "test description",
+        "user_id": ""
+    },
+
+    "comment": {
+        "content": "test content",
+        "commenter_username": "Raja",
+        "blogId": ""
+    }
+}
+
+
+//insert into learnship.users (id, `userName`, `password`, `role`, createdAt, updatedAt) values ("e3a6796b-ebb2-4c2e-88e4-4d4569f263bd", "Raja", "Test@123", "admin", now(), now());
